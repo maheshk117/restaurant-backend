@@ -1,0 +1,15 @@
+    Restaurant Backend Notes
+-------------------------------
+
+1. create a new folder for backend - restaurant-server
+2. create a package.json file - npm init
+3. create node_modules folder - npm i json-server
+4. create .gitignore file - node_modules
+5. create a db.json file for storing data
+6. create index.js file
+7. start the server with command: node index.js
+        1. import json-server
+        2. create a server
+        3. setup path for db.json
+        4. return middleware and router
+        5. setup port 
